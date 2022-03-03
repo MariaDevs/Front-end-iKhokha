@@ -1,0 +1,17 @@
+.btn{
+    width: 140px;
+    height: 38px;
+    border: 1px solid #4296cb;
+    background-color: white;
+    border-radius: 37px;
+    margin-top: 71px;
+    margin-bottom: 167px;
+    text-align: center;
+    font-family: montserrat;
+    font-weight: 600;
+    color: #4296cb;
+}
+.btn:hover{
+    background-color: #4296cb;
+    color: white;
+}

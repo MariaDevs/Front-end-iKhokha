@@ -1,0 +1,68 @@
+@font-face {
+    font-family: montserrat;
+    src: url("../fonts/Montserrat/static/Montserrat-Regular.ttf");
+}
+.image1{
+    width: 384px;
+    height: 371px;
+    margin-right: 253px;
+    margin-top: 259px;
+    margin-bottom: 359px;
+    float: right;
+
+
+}
+.image2{
+    width: 236px;
+    height: 370px;
+    
+
+    
+  
+}
+.title1{
+font-weight: 600;
+font-size: 46px;
+font-family: montserrat;
+color:  #394E5D;
+margin-left: 155px;
+margin-top: 354px;
+
+
+}
+.text1{
+font-family: montserrat;
+font-size: 22px;
+color: #394E5D;
+width: 503px;
+margin-left: 155px;
+}
+.title2{
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 32px;
+    color: #394E5D;
+    text-align: center;
+    margin-bottom: 60px;
+
+    
+    }
+    .title3{
+        font-family: montserrat;
+        font-size: 24px;
+        font-weight: bold;
+        color:  #394E5D;
+        margin-top: 114px;
+
+    }
+    .text3{
+    font-family: montserrat;
+    font-size: 18px;
+    color: #182333;
+    
+    
+    
+    }
+    
+
+    
