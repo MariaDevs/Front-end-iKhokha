@@ -20,4 +20,20 @@
     font-weight: bold;
     font-family:montserrat;
 }
+@media (max-width:376px){
+    .cont{
+        height: 59px;
+        padding-top: 16px;
+        padding-bottom: 10.52px;
+    }
+    .logo{
+        width: 28px;
+        height: 32px;
+        margin-left: 33px;
+        margin-right: 39.88px;
+        
+        
+    }
+   
+}
 

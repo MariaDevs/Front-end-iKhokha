@@ -2,7 +2,7 @@
     font-family: montserrat;
     src: url("../fonts/Montserrat/static/Montserrat-Regular.ttf");
 }
-.image1{
+.image1W{
     width: 384px;
     height: 371px;
     margin-right: 253px;
@@ -12,7 +12,7 @@
 
 
 }
-.image2{
+.image2W{
     width: 236px;
     height: 370px;
     
@@ -42,8 +42,9 @@ margin-left: 155px;
     font-weight: bold;
     font-size: 32px;
     color: #394E5D;
-    text-align: center;
+    margin-left: 503px;
     margin-bottom: 60px;
+    letter-spacing: 0;
 
     
     }
@@ -55,12 +56,63 @@ margin-left: 155px;
         margin-top: 114px;
 
     }
+    .text3Container{
+        width:525px;
+    }
     .text3{
     font-family: montserrat;
     font-size: 18px;
     color: #182333;
+    }
+    .image2{
+        margin-left: 282px;
+    }
     
     
+ 
+    @media (max-width:376px){
+        .image2{
+            display: none;
+        }
+        .text3Container{
+            width: 334px;
+            margin-left: 24px;
+
+        }
+        .text3{
+            font-size: 16px;
+            color: #182333 ;
+        }
+        .title3{
+            font-size: 20px;
+            margin-top: 0;
+        }
+        .title2{
+            font-size: 26px;
+            margin-left: 24px;
+            margin-bottom: 48px;
+            
+           
+        }
+        .image1W{
+            width: 266px;
+            height: 257px;
+            margin-bottom: 163px;
+            margin-left: 55px;
+            margin-right: 54px;
+            margin-top: 87px;
+        }
+       .title1 {
+           font-size: 32px;
+           margin-left: 26px;
+           margin-top: 166px;
+
+        }
+        .text1{
+            font-size: 18px;
+            margin-left: 26px;
+            width: 327px;
+        }
     
     }
     

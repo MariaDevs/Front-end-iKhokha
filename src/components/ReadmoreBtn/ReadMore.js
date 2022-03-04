@@ -3,11 +3,11 @@ import btnCSS from "../ReadmoreBtn/readMoreBtn.module.css"
 const ReadMore = ()=>{
 
     return(
-        <div class="text-center" >
-                <div class="container ">
+        <div >
+            
                     <button href="a" class={btnCSS.btn } >Read more</button>
 
-         </div>
+        
          </div>
     )
 }
